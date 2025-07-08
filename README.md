@@ -1,5 +1,5 @@
 ## Hi, I'm Ala Blidi 👋
-Data Scientist looking for a position  
+Data Engineer (and Web App developper on my spare time) 
 
 ### 🦾 Here are my Skills:
 - 💻 Python, R, Scilab ...
